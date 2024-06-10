@@ -12,18 +12,18 @@ What is software engineering, and how does it differ from traditional programmin
 Software Development Life Cycle (SDLC): deals with building series of end product step by step iorder to meet user's technical preference
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.1] planing - it defineproject scope . 2] requirement -defining functional and tecnical requirement . 3] Design -you design what is needed [Hld]  
-Agile vs. Waterfall Models:
+Agile vs. Waterfall Models:Agile emphysize on flexibility,collaboration and customer feedback while waterfall is linearly and sequential approach ineach and every stage
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Requirements Engineering:
+Requirements Engineering: Agile is collaboration unlike waterfall model which is more of sequence  
+both are important in software development 
+What is requirements engineering? Describe the process and its importance in the software development lifecycle. 1] User requirement,this has the end user need.2] System requirement it must be in lign with the system need.3] Business requirement it shoulg a chieve business need 
+Software Design Principles:1]Traceable to analysi model.  2]should not suffer from tunnel vision. 3] Should accommodate changes
 
-What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-Software Design Principles:
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems? Modularity aimed at creating in a way that minimizes dependencies a mong other other component .it can be minimize by putting the problem into manageable form 
+Testing in Software Engineering:It involve proving the system key element software,hardware,document ,data ant how people interact with it
 
-Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-Testing in Software Engineering:
-
-Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing)  . Why is testing crucial in software development?
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
